@@ -1,0 +1,11 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.nixtempestas.normaltransfer",
+    "display_name" : "Normalized Orbital Transfers",
+    "description" : "Make all orbital transfer speeds the same.",
+    "date": "2015/02/09",
+    "author" : "nixtempestas",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
